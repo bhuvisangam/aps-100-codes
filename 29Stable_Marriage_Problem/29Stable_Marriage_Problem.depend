@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681144495 source:c:\users\dell\onedrive\desktop\6thsem\aps\29stable_marriage_problem\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+
